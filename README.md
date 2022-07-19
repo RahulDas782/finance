@@ -1,7 +1,7 @@
 # finance
 
 ## About
-Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real time stocks actual prices and portfolios values, it will also let you buy and sell stocks by querying [IEX](https://iexcloud.io/) API for stocks’ prices. Also you can add money to your account.
+Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real time stocks actual prices and portfolios values, it will also let you buy and sell stocks by querying [IEX](https://iexcloud.io/) API for stocks’ prices. Also you can add money to your account.  
 Tech stack - **Python, Flask, HTML, CSS, Bootstrap, sqlite3.**
 
 ## Functionality
